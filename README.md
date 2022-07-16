@@ -1,4 +1,14 @@
-# YourNextReads - is a web app 
+# YourNextReads
+
+### Hey there! Welcome (Namaste) to YourNextReads, developed in 2022 by Divyata Gosai.
+
+# Technical Details 🔧
+### Tech Stack : 
+ - Front-end : HTML, CSS, Javascript, bootstrap
+ - Technologies: Django framework, machine learning model
+ - Databases/Data storage: MySQL
+ - ML Libraries in python 3: NumPy, pandas, sklearn
+ - Tools: Visual Studio Code, Jupyter Notebook, MySQL workbench, MySQL server
 
 The Project works seamlessly on Python version `3.10.2`
 
