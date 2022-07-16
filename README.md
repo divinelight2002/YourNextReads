@@ -26,3 +26,15 @@ Set database and change password
 Make Migrations - `python manage.py migrate`
 
 `python manage.py runserver` - You're good to Go !!
+
+
+# Functionalities
+
+Functionalities that are successfully implemented in the system are:
+
+ - Book recommendation
+ - Give Ratings
+ - View book details
+ - Registration, Log in & log out
+ - Show rated books
+ - Search book
